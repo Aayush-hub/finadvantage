@@ -6369,7 +6369,7 @@ h4,
 }
 
 .bg-primary {
-	background: #01d28e!important
+	background: #66acc7!important
 }
 
 .btn {
@@ -6391,27 +6391,27 @@ h4,
 }
 
 .btn.btn-primary {
-	background: #01d28e;
+	background: #66acc7;
 	border: 1px solid #01d28e;
 	color: #fff
 }
 
 .btn.btn-primary:hover {
-	border: 1px solid #01d28e;
+	border: 1px solid #1597ca;
 	background: transparent;
-	color: #01d28e
+	color: rgb(168, 244, 250)
 }
 
 .btn.btn-secondary {
-	background: #6c5ce7;
+	background: #2b5bc4;
 	border: 1px solid #6c5ce7;
 	color: #fff
 }
 
 .btn.btn-secondary:hover {
-	border: 1px solid #6c5ce7;
+	border: 1px solid #0a0a0c;
 	background: transparent;
-	color: #6c5ce7
+	color: #070b0c
 }
 
 .img-video {
@@ -6509,7 +6509,7 @@ h4,
 }
 
 .services .d-block:hover .icon {
-	background: #01d28e
+	background: #66acc7
 }
 
 .services .d-block:hover .icon:after {
@@ -6625,7 +6625,7 @@ h4,
 	line-height: 1;
 	font-weight: 700;
 	font-size: 38px;
-	color: #01d28e;
+	color: #66acc7;
 	display: block;
 	margin-bottom: 10px
 }
@@ -6678,7 +6678,7 @@ h4,
 
 .staff .text {
 	position: relative;
-	background: #01d28e;
+	background: #66acc7;
 	-moz-transition: all .3s ease;
 	-o-transition: all .3s ease;
 	-webkit-transition: all .3s ease;
@@ -7169,7 +7169,7 @@ textarea.form-control {
 	font-size: 12px;
 	display: block;
 	font-weight: 700;
-	color: #01d28e;
+	color: #66acc7;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	padding-top: 40px;
@@ -7326,7 +7326,7 @@ textarea.form-control {
 	width: 40px;
 	height: 40px;
 	border-radius: 5px;
-	background: #01d28e
+	background: #66acc7
 }
 
 .testimony-wrap .icon span {
